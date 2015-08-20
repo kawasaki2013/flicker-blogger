@@ -1,0 +1,1 @@
+A simple script allow creat gallery for blogger
